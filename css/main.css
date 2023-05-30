@@ -264,6 +264,16 @@ footer {
   color: #FFFFFF;
 }
 
+.contact__content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact__maps {
+  border: 0;
+}
+
 .contact__item {
   width: 348px;
   background: #FFFFFF66;
